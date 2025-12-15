@@ -19,7 +19,7 @@ Please follow the steps below to set up the environemnt and submit a job:
 
 Once you submit a job, you will receive a model_id. You can use this model_id to view the logs by running the following command: 
 
-    scalarm logs --model={model_id}
+    scalarlm logs --model={model_id}
 
 If you have any technical questions, please feel free to reach out to farbod.tavakkoli@att.com or farbodtavakoli@gmail.com
 
