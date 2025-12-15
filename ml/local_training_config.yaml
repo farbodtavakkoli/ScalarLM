@@ -1,0 +1,10 @@
+lora_alpha: 16
+lora_dropout: 0.05
+r: 8
+target_modules:
+- q_proj
+- k_proj
+- v_proj
+- o_proj
+training_mode: language_model
+use_lora: true
