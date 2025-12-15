@@ -1,4 +1,4 @@
-This repository is a customized version of the ScalarLM framework, tailored for the [AI Telco Troubleshooting Challenge](https://aiforgood.itu.int/ai-telco-troubleshooting-challenge/) (TeleLogs) hosted by [GSMA](https://www.linkedin.com/company/gsma/), happening from November 2025 to March 2026. TeleLogs is a world-wide competition focused on training language models for network root cause analysis. The main objective of this repository is to provide guidelines and resources for post-training language models relevant to the challenge. 
+This repository is a customized version of the ScalarLM framework, tailored for the [AI Telco Troubleshooting Challenge](https://aiforgood.itu.int/ai-telco-troubleshooting-challenge/) (TeleLogs) hosted by [GSMA](https://www.gsma.com/), happening from November 2025 to March 2026. TeleLogs is a world-wide competition focused on training language models for network root cause analysis. The main objective of this repository is to provide guidelines and resources for post-training language models relevant to the challenge. 
 
 ScalarLM is a GPU-agnostic, fully open-source, CC-0 licensed platform for inference, training, and deployment. ScalarLM builds on top of the vLLM inference engine, the Megatron-LM training framework, and the HuggingFace model hub. To learn more about ScalarLM, please visit [ScalarLM](https://www.scalarlm.com/).
 
@@ -23,7 +23,7 @@ Once you submit a job, you will receive a model_id. You can use this model_id to
 
 If you have any technical questions, please feel free to reach out to farbod.tavakkoli@att.com or farbodtavakoli@gmail.com
 
-Acknowledgement: [AT&T](https://www.linkedin.com/company/att/posts/?feedView=all), [AMD](https://www.linkedin.com/company/amd/), [TensorWave](https://www.linkedin.com/company/tensorwave/), and [RelationalAI](https://www.linkedin.com/company/relationalai/posts/?feedView=all).
+Acknowledgement: [AT&T](https://www.att.com/), [AMD](https://www.amd.com/en.html), [TensorWave](https://tensorwave.com/), and [RelationalAI](https://www.relational.ai/).
 
 Authors: [Farbod Tavakkoli](https://www.linkedin.com/in/farbodtavakkoli/),  [Gregory Diamos](https://www.linkedin.com/in/gregory-diamos-1a8b9083/),  [Jorden Terrazas](https://www.linkedin.com/in/jorden-terrazas-4a440714a/),  [Roderic Paulk](https://www.linkedin.com/in/roderic-paulk-64a30718/)
 
